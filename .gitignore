@@ -7,6 +7,9 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+jack_Data/
+Assets/girls/
+Library/
 
 # Windows Installer files
 *.cab
@@ -16,6 +19,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+*.meta
 
 # =========================
 # Operating System Files
@@ -41,3 +46,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.gif
