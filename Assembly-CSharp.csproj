@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{E233F91F-3D4A-F3AA-1EEC-C972FD4707EA}</ProjectGuid>
+	<ProjectGuid>{7B335DE7-1F26-4DF4-7580-E8D03AC7D0C8}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\btnExitGame.cs" />
      <Compile Include="Assets\scripts\btnMainMenu.cs" />
+     <Compile Include="Assets\scripts\slave.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>J:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

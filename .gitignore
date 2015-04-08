@@ -10,6 +10,7 @@ $RECYCLE.BIN/
 jack_Data/
 Assets/girls/
 Library/
+Temp/
 
 # Windows Installer files
 *.cab
